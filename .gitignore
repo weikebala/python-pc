@@ -1,0 +1,8 @@
+.idea
+composer.lock
+*.log
+thinkphp
+
+.idea/
+.idea/workspace.xml
+.idea/workspace.xml
