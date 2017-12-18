@@ -28,6 +28,9 @@ class SpiderMain(object):
                 print 'craw failed'
         self.outputer.output_html()
 
+    def test(self):
+        count = 1
+        initcoumt = 98
 
 if __name__ == "__main__":
     root_url = "https://baike.baidu.com/item/%E9%AD%8F%E5%A8%9C/7176911"
