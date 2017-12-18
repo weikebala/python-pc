@@ -29,6 +29,10 @@ class SpiderMain(object):
         self.outputer.output_html()
 
     def test(self):
+        count = 150
+        initcoumt = 98
+
+    def test1(self):
         count = 1
         initcoumt = 98
 
